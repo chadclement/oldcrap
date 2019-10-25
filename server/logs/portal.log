@@ -1,0 +1,776 @@
+19-10-17 02:02:49  |Portal| Loading /home/cclement/muddev/evennia/evennia/server/portal/portal.py...
+19-10-17 02:02:50  |Portal| Loaded.
+19-10-17 02:02:50  |Portal| twistd 19.7.0 (/home/cclement/muddev/evenv/bin/python3.7 3.7.3) starting up.
+19-10-17 02:02:50  |Portal| reactor class: twisted.internet.epollreactor.EPollReactor.
+19-10-17 02:02:50  |Portal| AMP starting on 4006
+19-10-17 02:02:50  |Portal| Telnet starting on 4000
+19-10-17 02:02:50  |Portal| Websocket starting on 4002
+19-10-17 02:02:50  |Portal| Webserver-proxy starting on 4001
+19-10-17 02:02:50  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 02:02:52  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 02:03:54  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55968)
+19-10-17 02:03:59  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55966)
+19-10-17 02:06:20  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 02:07:55  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56046)
+19-10-17 02:07:55  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56048)
+19-10-17 02:08:20  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56069)
+19-10-17 02:08:20  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56056)
+19-10-17 02:08:20  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56067)
+19-10-17 02:08:20  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56068)
+19-10-17 02:08:21  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56092)
+19-10-17 02:08:21  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56093)
+19-10-17 02:24:15  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 02:25:07  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 02:29:08  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 02:30:10  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 02:34:19  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 02:42:59  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 02:44:08  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 02:45:12  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 02:45:28  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 02:46:50  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 02:47:55  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56740)
+19-10-17 02:48:59  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 02:50:21  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56830)
+19-10-17 02:50:50  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 02:51:36  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 02:59:15  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 03:03:17  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 03:05:17  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 03:06:15  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 03:12:58  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57254)
+19-10-17 03:12:58  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57265)
+19-10-17 03:12:58  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57256)
+19-10-17 03:12:58  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57289)
+19-10-17 03:12:58  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57290)
+19-10-17 03:12:58  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57291)
+19-10-17 03:15:59  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 03:17:00  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 03:18:46  |Portal| (TCP Port 4001 Closed)
+19-10-17 03:18:46  |Portal| (TCP Port 4002 Closed)
+19-10-17 03:18:46  |Portal| (TCP Port 4000 Closed)
+19-10-17 03:18:46  |Portal| (TCP Port 4006 Closed)
+19-10-17 03:18:46  |Portal| Main loop terminated.
+19-10-17 03:18:46  |Portal| Server Shut Down.
+19-10-17 03:18:51  |Portal| Loading /home/cclement/muddev/evennia/evennia/server/portal/portal.py...
+19-10-17 03:18:52  |Portal| Loaded.
+19-10-17 03:18:52  |Portal| twistd 19.7.0 (/home/cclement/muddev/evenv/bin/python3.7 3.7.3) starting up.
+19-10-17 03:18:52  |Portal| reactor class: twisted.internet.epollreactor.EPollReactor.
+19-10-17 03:18:52  |Portal| AMP starting on 4006
+19-10-17 03:18:52  |Portal| Telnet starting on 4000
+19-10-17 03:18:52  |Portal| Websocket starting on 4002
+19-10-17 03:18:52  |Portal| Webserver-proxy starting on 4001
+19-10-17 03:18:52  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 03:20:27  |Portal| (TCP Port 4001 Closed)
+19-10-17 03:20:27  |Portal| (TCP Port 4002 Closed)
+19-10-17 03:20:27  |Portal| (TCP Port 4000 Closed)
+19-10-17 03:20:27  |Portal| (TCP Port 4006 Closed)
+19-10-17 03:20:27  |Portal| Main loop terminated.
+19-10-17 03:20:27  |Portal| Server Shut Down.
+19-10-17 03:20:31  |Portal| Loading /home/cclement/muddev/evennia/evennia/server/portal/portal.py...
+19-10-17 03:20:32  |Portal| Loaded.
+19-10-17 03:20:32  |Portal| twistd 19.7.0 (/home/cclement/muddev/evenv/bin/python3.7 3.7.3) starting up.
+19-10-17 03:20:32  |Portal| reactor class: twisted.internet.epollreactor.EPollReactor.
+19-10-17 03:20:32  |Portal| AMP starting on 4006
+19-10-17 03:20:32  |Portal| Telnet starting on 4000
+19-10-17 03:20:32  |Portal| Websocket starting on 4002
+19-10-17 03:20:32  |Portal| Webserver-proxy starting on 4001
+19-10-17 03:20:33  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 03:25:59  |Portal| (TCP Port 4001 Closed)
+19-10-17 03:25:59  |Portal| (TCP Port 4002 Closed)
+19-10-17 03:25:59  |Portal| (TCP Port 4000 Closed)
+19-10-17 03:25:59  |Portal| (TCP Port 4006 Closed)
+19-10-17 03:25:59  |Portal| Main loop terminated.
+19-10-17 03:25:59  |Portal| Server Shut Down.
+19-10-17 03:26:03  |Portal| Loading /home/cclement/muddev/evennia/evennia/server/portal/portal.py...
+19-10-17 03:26:04  |Portal| Loaded.
+19-10-17 03:26:04  |Portal| twistd 19.7.0 (/home/cclement/muddev/evenv/bin/python3.7 3.7.3) starting up.
+19-10-17 03:26:04  |Portal| reactor class: twisted.internet.epollreactor.EPollReactor.
+19-10-17 03:26:04  |Portal| AMP starting on 4006
+19-10-17 03:26:04  |Portal| Telnet starting on 4000
+19-10-17 03:26:04  |Portal| Websocket starting on 4002
+19-10-17 03:26:04  |Portal| Webserver-proxy starting on 4001
+19-10-17 03:26:04  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-17 03:27:17  |Portal| (TCP Port 4001 Closed)
+19-10-17 03:27:17  |Portal| (TCP Port 4002 Closed)
+19-10-17 03:27:17  |Portal| (TCP Port 4000 Closed)
+19-10-17 03:27:17  |Portal| (TCP Port 4006 Closed)
+19-10-17 03:27:17  |Portal| Main loop terminated.
+19-10-17 03:27:17  |Portal| Server Shut Down.
+19-10-17 03:27:20  |Portal| Loading /home/cclement/muddev/evennia/evennia/server/portal/portal.py...
+19-10-17 03:27:21  |Portal| Loaded.
+19-10-17 03:27:21  |Portal| twistd 19.7.0 (/home/cclement/muddev/evenv/bin/python3.7 3.7.3) starting up.
+19-10-17 03:27:21  |Portal| reactor class: twisted.internet.epollreactor.EPollReactor.
+19-10-17 03:27:21  |Portal| AMP starting on 4006
+19-10-17 03:27:21  |Portal| Telnet starting on 4000
+19-10-17 03:27:21  |Portal| Websocket starting on 4002
+19-10-17 03:27:21  |Portal| Webserver-proxy starting on 4001
+19-10-17 03:27:21  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 15:27:13  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 15:29:05  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=54110)
+19-10-19 15:29:05  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=54112)
+19-10-19 15:29:05  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=54158)
+19-10-19 15:29:05  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=54159)
+19-10-19 15:29:05  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=54160)
+19-10-19 15:29:05  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=54161)
+19-10-19 15:40:41  |Portal| (TCP Port 4001 Closed)
+19-10-19 15:40:41  |Portal| (TCP Port 4002 Closed)
+19-10-19 15:40:41  |Portal| (TCP Port 4000 Closed)
+19-10-19 15:40:41  |Portal| (TCP Port 4006 Closed)
+19-10-19 15:40:41  |Portal| Main loop terminated.
+19-10-19 15:40:41  |Portal| Server Shut Down.
+19-10-19 15:40:47  |Portal| Loading /home/cclement/muddev/evennia/evennia/server/portal/portal.py...
+19-10-19 15:40:48  |Portal| Loaded.
+19-10-19 15:40:48  |Portal| twistd 19.7.0 (/home/cclement/muddev/evenv/bin/python3.7 3.7.3) starting up.
+19-10-19 15:40:48  |Portal| reactor class: twisted.internet.epollreactor.EPollReactor.
+19-10-19 15:40:48  |Portal| AMP starting on 4006
+19-10-19 15:40:48  |Portal| Telnet starting on 4000
+19-10-19 15:40:48  |Portal| Websocket starting on 4002
+19-10-19 15:40:48  |Portal| Webserver-proxy starting on 4001
+19-10-19 15:40:48  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 15:41:50  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 15:42:57  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 15:43:59  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 15:50:16  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 15:53:16  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 15:53:45  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 15:54:26  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 19:37:51  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 19:41:12  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 19:41:39  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 19:42:13  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 19:44:11  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 19:44:28  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 19:44:46  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 19:45:17  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 19:45:47  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 19:47:03  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 19:49:19  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 19:49:39  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 19:51:21  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 19:51:56  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 20:08:05  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 20:09:21  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 20:10:55  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 20:25:04  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 20:27:42  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 20:28:27  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 20:29:05  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 20:36:48  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 20:44:29  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 20:45:05  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-19 20:46:20  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 01:11:11  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 01:12:48  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 01:14:15  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 01:16:42  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 01:22:10  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 01:29:38  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 01:45:26  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 01:46:39  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 01:49:16  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 01:56:45  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:03:06  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:07:52  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:08:14  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:08:43  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:14:29  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:14:59  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:15:20  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:16:27  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:17:44  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:20:44  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=63137)
+19-10-20 02:20:44  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=63135)
+19-10-20 02:20:44  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=63145)
+19-10-20 02:22:00  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:22:51  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:23:11  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:26:15  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:43:31  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:47:16  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:47:41  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:48:39  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:51:58  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 02:55:15  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:21:41  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:23:22  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:24:29  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:24:46  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:25:17  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:26:02  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:28:27  |Portal| (TCP Port 4001 Closed)
+19-10-20 03:28:27  |Portal| (TCP Port 4002 Closed)
+19-10-20 03:28:27  |Portal| (TCP Port 4000 Closed)
+19-10-20 03:28:27  |Portal| (TCP Port 4006 Closed)
+19-10-20 03:28:27  |Portal| Main loop terminated.
+19-10-20 03:28:27  |Portal| Server Shut Down.
+19-10-20 03:28:31  |Portal| Loading /home/cclement/muddev/evennia/evennia/server/portal/portal.py...
+19-10-20 03:28:32  |Portal| Loaded.
+19-10-20 03:28:32  |Portal| twistd 19.7.0 (/home/cclement/muddev/evenv/bin/python3.7 3.7.3) starting up.
+19-10-20 03:28:32  |Portal| reactor class: twisted.internet.epollreactor.EPollReactor.
+19-10-20 03:28:32  |Portal| AMP starting on 4006
+19-10-20 03:28:32  |Portal| Telnet starting on 4000
+19-10-20 03:28:32  |Portal| Websocket starting on 4002
+19-10-20 03:28:32  |Portal| Webserver-proxy starting on 4001
+19-10-20 03:28:32  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:29:37  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:30:22  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:33:13  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:34:35  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:40:03  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:42:33  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:44:18  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:45:19  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:47:31  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:48:10  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:48:55  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:49:42  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 03:50:38  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 04:18:21  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 04:22:09  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 04:23:43  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 04:26:20  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 04:26:57  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 04:27:25  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 04:28:19  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 04:29:21  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 04:31:16  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 04:32:47  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 04:33:31  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 04:36:36  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 04:37:14  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 04:50:57  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=49442)
+19-10-20 04:50:57  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=49440)
+19-10-20 05:23:55  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:25:36  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:26:48  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:27:51  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:30:52  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:31:58  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:35:02  |Portal| (TCP Port 4001 Closed)
+19-10-20 05:35:02  |Portal| (TCP Port 4002 Closed)
+19-10-20 05:35:02  |Portal| (TCP Port 4000 Closed)
+19-10-20 05:35:02  |Portal| (TCP Port 4006 Closed)
+19-10-20 05:35:02  |Portal| Main loop terminated.
+19-10-20 05:35:02  |Portal| Server Shut Down.
+19-10-20 05:35:06  |Portal| Loading /home/cclement/muddev/evennia/evennia/server/portal/portal.py...
+19-10-20 05:35:07  |Portal| Loaded.
+19-10-20 05:35:07  |Portal| twistd 19.7.0 (/home/cclement/muddev/evenv/bin/python3.7 3.7.3) starting up.
+19-10-20 05:35:07  |Portal| reactor class: twisted.internet.epollreactor.EPollReactor.
+19-10-20 05:35:07  |Portal| AMP starting on 4006
+19-10-20 05:35:07  |Portal| Telnet starting on 4000
+19-10-20 05:35:07  |Portal| Websocket starting on 4002
+19-10-20 05:35:07  |Portal| Webserver-proxy starting on 4001
+19-10-20 05:35:07  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:35:08  |Portal| [EE] AMP Error for AdminPortal2Server: Traceback (most recent call last):
+19-10-20 05:35:08  |Portal| [EE] --- <exception caught here> ---
+19-10-20 05:35:08  |Portal| [EE]   File "/home/cclement/muddev/evenv/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+19-10-20 05:35:08  |Portal| [EE]     current.result = callback(current.result, *args, **kw)
+19-10-20 05:35:08  |Portal| [EE]   File "/home/cclement/muddev/evenv/lib/python3.7/site-packages/twisted/protocols/amp.py", line 1989, in _massageError
+19-10-20 05:35:08  |Portal| [EE]     error.trap(RemoteAmpError)
+19-10-20 05:35:08  |Portal| [EE]   File "/home/cclement/muddev/evenv/lib/python3.7/site-packages/twisted/python/failure.py", line 460, in trap
+19-10-20 05:35:08  |Portal| [EE]     self.raiseException()
+19-10-20 05:35:08  |Portal| [EE]   File "/home/cclement/muddev/evenv/lib/python3.7/site-packages/twisted/python/failure.py", line 488, in raiseException
+19-10-20 05:35:08  |Portal| [EE]     raise self.value.with_traceback(self.tb)
+19-10-20 05:35:08  |Portal| [EE] twisted.protocols.amp.UnhandledCommand: (b'UNHANDLED', "Unhandled Command: b'AdminPortal2Server'")
+19-10-20 05:35:08  |Portal| [EE]  (b'UNHANDLED', "Unhandled Command: b'AdminPortal2Server'")
+19-10-20 05:38:34  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:40:13  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:41:59  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:43:12  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:44:29  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:48:00  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:48:25  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:50:07  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:53:55  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:55:02  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:56:11  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:56:45  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 05:58:39  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 06:03:24  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 06:12:28  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 06:13:50  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 06:15:11  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 06:15:30  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 06:16:45  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 06:17:41  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 06:19:01  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 06:20:20  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 06:21:05  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 06:21:21  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 06:51:33  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 06:53:05  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 06:54:47  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:08:38  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:09:00  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:09:43  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:10:31  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:18:04  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:18:47  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:19:31  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:21:22  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:22:06  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:22:27  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:23:26  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:26:48  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:27:17  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:28:26  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:28:50  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:29:14  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:31:54  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:33:11  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:33:29  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:34:25  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:34:40  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:35:03  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 07:35:15  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 08:11:19  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 08:12:06  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 08:12:36  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 08:13:56  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 08:23:29  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 08:27:30  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 08:28:29  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 08:37:41  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 08:37:59  |Portal| (TCP Port 4001 Closed)
+19-10-20 08:37:59  |Portal| (TCP Port 4002 Closed)
+19-10-20 08:37:59  |Portal| (TCP Port 4000 Closed)
+19-10-20 08:37:59  |Portal| (TCP Port 4006 Closed)
+19-10-20 08:37:59  |Portal| Main loop terminated.
+19-10-20 08:37:59  |Portal| Server Shut Down.
+19-10-20 08:38:03  |Portal| Loading /home/cclement/muddev/evennia/evennia/server/portal/portal.py...
+19-10-20 08:38:03  |Portal| Loaded.
+19-10-20 08:38:03  |Portal| twistd 19.7.0 (/home/cclement/muddev/evenv/bin/python3.7 3.7.3) starting up.
+19-10-20 08:38:03  |Portal| reactor class: twisted.internet.epollreactor.EPollReactor.
+19-10-20 08:38:03  |Portal| AMP starting on 4006
+19-10-20 08:38:03  |Portal| Telnet starting on 4000
+19-10-20 08:38:03  |Portal| Websocket starting on 4002
+19-10-20 08:38:03  |Portal| Webserver-proxy starting on 4001
+19-10-20 08:38:03  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 08:38:14  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 08:40:01  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 08:43:57  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 08:53:54  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 08:54:44  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 08:57:14  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 08:59:07  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 09:01:40  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 09:03:24  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 09:05:42  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 09:06:32  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 09:08:56  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 09:09:49  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 09:15:22  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 09:15:56  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 09:17:14  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 09:18:11  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 09:23:00  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 09:23:12  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 15:57:44  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 15:59:03  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 15:59:39  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 16:00:16  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 16:02:18  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 16:03:03  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 16:03:52  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 16:05:03  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 16:05:20  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 16:05:41  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 16:07:33  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 16:08:52  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 16:09:13  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 16:09:32  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 16:24:31  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59164)
+19-10-20 16:24:31  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59178)
+19-10-20 16:24:31  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59179)
+19-10-20 16:24:31  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59177)
+19-10-20 16:24:32  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59202)
+19-10-20 16:24:32  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59203)
+19-10-20 16:55:22  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 17:06:15  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 17:09:04  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 17:10:10  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 17:13:18  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 17:15:16  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 17:16:03  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 17:19:00  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 17:20:04  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 17:20:38  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 17:21:09  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-20 17:33:22  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60244)
+19-10-20 17:33:22  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60268)
+19-10-20 17:33:22  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60269)
+19-10-20 17:33:22  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60241)
+19-10-20 17:33:22  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60270)
+19-10-20 17:33:22  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=60242)
+19-10-22 03:24:54  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-22 04:11:26  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-22 04:12:21  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-22 04:13:37  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-22 04:17:31  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-22 04:27:53  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-22 04:29:04  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56478)
+19-10-22 04:29:04  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56466)
+19-10-22 04:29:04  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56468)
+19-10-22 04:29:04  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56502)
+19-10-22 04:29:04  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56503)
+19-10-22 04:29:04  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56504)
+19-10-22 04:32:19  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-22 04:33:28  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-22 04:42:52  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-22 04:44:59  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-22 04:45:49  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-22 04:55:46  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-22 04:58:25  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-22 05:00:14  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-22 05:01:18  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-22 05:03:54  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57049)
+19-10-22 05:03:56  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57047)
+19-10-22 05:05:54  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57092)
+19-10-22 05:05:54  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57093)
+19-10-22 05:05:54  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57081)
+19-10-22 05:05:54  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57090)
+19-10-22 05:05:54  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57114)
+19-10-22 05:05:54  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57115)
+19-10-22 05:37:44  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57517)
+19-10-23 03:27:24  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 03:28:48  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 03:29:53  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58341)
+19-10-23 03:29:53  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58342)
+19-10-23 03:29:53  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58343)
+19-10-23 03:29:53  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58344)
+19-10-23 03:29:53  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58345)
+19-10-23 03:29:53  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58302)
+19-10-23 03:30:12  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58380)
+19-10-23 03:30:12  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58368)
+19-10-23 03:30:12  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58379)
+19-10-23 03:30:12  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58381)
+19-10-23 03:30:12  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58406)
+19-10-23 03:30:12  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=58407)
+19-10-23 03:32:33  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 03:33:21  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 03:34:10  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 03:34:38  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 03:39:15  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 03:42:15  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 03:47:24  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 03:48:46  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 03:50:20  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 03:52:00  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 03:53:40  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 03:54:29  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 03:56:45  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 03:58:12  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:02:49  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:03:33  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:03:42  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:05:23  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59085)
+19-10-23 04:05:24  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59087)
+19-10-23 04:05:25  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59078)
+19-10-23 04:06:42  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:07:53  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:08:51  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:12:12  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:13:55  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:15:50  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:16:06  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:18:02  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:21:28  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:25:16  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:26:26  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59472)
+19-10-23 04:26:27  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=59470)
+19-10-23 04:28:39  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:31:55  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:34:08  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:34:54  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:36:06  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:37:20  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:42:21  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:48:54  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:49:37  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:52:59  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:55:42  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:57:04  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 04:57:39  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:06:00  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:37:52  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:38:40  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:43:30  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:43:47  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:44:18  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:44:31  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:44:47  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:44:58  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:45:15  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:45:29  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:45:38  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:45:50  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:46:35  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:46:49  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:49:34  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:51:19  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:51:39  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:52:08  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:52:26  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:52:56  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:53:23  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 05:57:02  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:00:45  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:01:53  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:02:41  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:03:43  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:04:58  |Portal| (TCP Port 4001 Closed)
+19-10-23 06:04:58  |Portal| (TCP Port 4002 Closed)
+19-10-23 06:04:58  |Portal| (TCP Port 4000 Closed)
+19-10-23 06:04:58  |Portal| (TCP Port 4006 Closed)
+19-10-23 06:04:58  |Portal| Main loop terminated.
+19-10-23 06:04:58  |Portal| Server Shut Down.
+19-10-23 06:05:03  |Portal| Loading /home/cclement/muddev/evennia/evennia/server/portal/portal.py...
+19-10-23 06:05:05  |Portal| Loaded.
+19-10-23 06:05:05  |Portal| twistd 19.7.0 (/home/cclement/muddev/evenv/bin/python3.7 3.7.3) starting up.
+19-10-23 06:05:05  |Portal| reactor class: twisted.internet.epollreactor.EPollReactor.
+19-10-23 06:05:05  |Portal| AMP starting on 4006
+19-10-23 06:05:05  |Portal| Telnet starting on 4000
+19-10-23 06:05:05  |Portal| Websocket starting on 4002
+19-10-23 06:05:05  |Portal| Webserver-proxy starting on 4001
+19-10-23 06:05:05  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:07:21  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:08:29  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:09:55  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:13:18  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:14:19  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:15:08  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:15:44  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:16:34  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:17:49  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:18:29  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:19:20  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:19:44  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:20:35  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:21:27  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:22:33  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:24:20  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:24:46  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:25:41  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:26:04  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:30:46  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:31:12  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:31:39  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:32:53  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 06:33:07  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-23 13:04:36  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 01:31:45  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 01:33:38  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 01:35:58  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 01:37:09  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 01:37:40  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 01:38:10  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 01:39:10  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 01:40:16  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 01:40:37  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 01:42:37  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 01:43:10  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 01:43:24  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 01:44:01  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 01:44:53  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 01:46:37  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 01:48:02  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 02:09:34  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 02:29:12  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 02:30:01  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 02:31:40  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 02:32:02  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 02:33:11  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 02:34:22  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 02:34:36  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 02:38:42  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 02:39:01  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 02:39:13  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 02:40:29  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=61151)
+19-10-24 02:40:30  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=61153)
+19-10-24 02:41:01  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 02:43:18  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 02:44:51  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 02:46:18  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 02:57:33  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 02:58:49  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 02:59:23  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:00:16  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:00:40  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:03:29  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:03:30  |Portal| [EE] AMP Error for b'MsgPortal2Server': Traceback (most recent call last):
+19-10-24 03:03:30  |Portal| [EE] --- <exception caught here> ---
+19-10-24 03:03:30  |Portal| [EE]   File "/home/cclement/muddev/evenv/lib/python3.7/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+19-10-24 03:03:30  |Portal| [EE]     current.result = callback(current.result, *args, **kw)
+19-10-24 03:03:30  |Portal| [EE]   File "/home/cclement/muddev/evenv/lib/python3.7/site-packages/twisted/protocols/amp.py", line 1989, in _massageError
+19-10-24 03:03:30  |Portal| [EE]     error.trap(RemoteAmpError)
+19-10-24 03:03:30  |Portal| [EE]   File "/home/cclement/muddev/evenv/lib/python3.7/site-packages/twisted/python/failure.py", line 460, in trap
+19-10-24 03:03:30  |Portal| [EE]     self.raiseException()
+19-10-24 03:03:30  |Portal| [EE]   File "/home/cclement/muddev/evenv/lib/python3.7/site-packages/twisted/python/failure.py", line 488, in raiseException
+19-10-24 03:03:30  |Portal| [EE]     raise self.value.with_traceback(self.tb)
+19-10-24 03:03:30  |Portal| [EE] twisted.protocols.amp.UnhandledCommand: (b'UNHANDLED', "Unhandled Command: b'MsgPortal2Server'")
+19-10-24 03:03:30  |Portal| [EE]  (b'UNHANDLED', "Unhandled Command: b'MsgPortal2Server'")
+19-10-24 03:04:52  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:06:40  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:07:34  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:08:41  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:09:26  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:09:56  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:12:23  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:14:21  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:16:01  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:18:16  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:19:23  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:21:30  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:23:16  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:24:15  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:24:57  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:25:24  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:25:53  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:26:35  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:26:50  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:33:51  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:34:22  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:34:48  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:36:49  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:40:17  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:55:05  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:55:52  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 03:56:48  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:00:00  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:00:57  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:01:46  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:02:24  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:02:59  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:03:43  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:04:54  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:07:51  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:09:08  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:09:43  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:10:28  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:11:14  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:12:32  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:14:00  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:14:32  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:18:06  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:19:46  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:20:38  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:21:07  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:22:23  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:22:38  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:24:39  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:25:31  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:26:08  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:26:45  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:29:36  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:44:51  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:46:55  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 04:47:56  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-24 05:12:57  |Portal| Unhandled error in Deferred:
+19-10-24 05:12:57  |Portal| Unhandled Error
+	Traceback (most recent call last):
+	Failure: twisted.conch.telnet.OptionRefused: twisted.conch.telnet.OptionRefused:b'"'
+	
+19-10-25 02:19:30  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55907)
+19-10-25 02:19:30  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55897)
+19-10-25 02:19:30  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55899)
+19-10-25 02:19:30  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55929)
+19-10-25 02:19:30  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55930)
+19-10-25 02:19:30  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=55931)
+19-10-25 02:22:28  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:24:19  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:26:59  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=56066)
+19-10-25 02:28:16  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:28:38  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:29:21  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:34:41  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:35:18  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:37:18  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:40:43  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:41:52  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:43:09  |Portal| (TCP Port 4001 Closed)
+19-10-25 02:43:09  |Portal| (TCP Port 4002 Closed)
+19-10-25 02:43:09  |Portal| (TCP Port 4000 Closed)
+19-10-25 02:43:09  |Portal| (TCP Port 4006 Closed)
+19-10-25 02:43:09  |Portal| Main loop terminated.
+19-10-25 02:43:09  |Portal| Server Shut Down.
+19-10-25 02:43:12  |Portal| Loading /home/cclement/muddev/evennia/evennia/server/portal/portal.py...
+19-10-25 02:43:14  |Portal| Loaded.
+19-10-25 02:43:14  |Portal| twistd 19.7.0 (/home/cclement/muddev/evenv/bin/python3.7 3.7.3) starting up.
+19-10-25 02:43:14  |Portal| reactor class: twisted.internet.epollreactor.EPollReactor.
+19-10-25 02:43:14  |Portal| AMP starting on 4006
+19-10-25 02:43:14  |Portal| Telnet starting on 4000
+19-10-25 02:43:14  |Portal| Websocket starting on 4002
+19-10-25 02:43:14  |Portal| Webserver-proxy starting on 4001
+19-10-25 02:43:14  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:44:44  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:45:18  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:46:22  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:52:04  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:53:41  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:54:08  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:54:19  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:54:46  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:55:08  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:55:26  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:55:52  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:56:53  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:57:41  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:58:08  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 02:59:48  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:00:34  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:00:52  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:19:30  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:19:57  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:20:22  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:20:37  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:21:16  |Portal| (TCP Port 4001 Closed)
+19-10-25 03:21:16  |Portal| (TCP Port 4002 Closed)
+19-10-25 03:21:16  |Portal| (TCP Port 4000 Closed)
+19-10-25 03:21:16  |Portal| (TCP Port 4006 Closed)
+19-10-25 03:21:16  |Portal| Main loop terminated.
+19-10-25 03:21:16  |Portal| Server Shut Down.
+19-10-25 03:21:22  |Portal| Loading /home/cclement/muddev/evennia/evennia/server/portal/portal.py...
+19-10-25 03:21:23  |Portal| Loaded.
+19-10-25 03:21:23  |Portal| twistd 19.7.0 (/home/cclement/muddev/evenv/bin/python3.7 3.7.3) starting up.
+19-10-25 03:21:23  |Portal| reactor class: twisted.internet.epollreactor.EPollReactor.
+19-10-25 03:21:23  |Portal| AMP starting on 4006
+19-10-25 03:21:23  |Portal| Telnet starting on 4000
+19-10-25 03:21:23  |Portal| Websocket starting on 4002
+19-10-25 03:21:23  |Portal| Webserver-proxy starting on 4001
+19-10-25 03:21:24  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:22:31  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:22:58  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:24:06  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:31:43  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:35:50  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:36:12  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:36:37  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:37:28  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:37:58  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:38:49  |Portal| (TCP Port 4001 Closed)
+19-10-25 03:38:49  |Portal| (TCP Port 4002 Closed)
+19-10-25 03:38:49  |Portal| (TCP Port 4000 Closed)
+19-10-25 03:38:49  |Portal| (TCP Port 4006 Closed)
+19-10-25 03:38:49  |Portal| Main loop terminated.
+19-10-25 03:38:49  |Portal| Server Shut Down.
+19-10-25 03:40:12  |Portal| Loading /home/cclement/muddev/evennia/evennia/server/portal/portal.py...
+19-10-25 03:40:13  |Portal| Loaded.
+19-10-25 03:40:13  |Portal| twistd 19.7.0 (/home/cclement/muddev/evenv/bin/python3.7 3.7.3) starting up.
+19-10-25 03:40:13  |Portal| reactor class: twisted.internet.epollreactor.EPollReactor.
+19-10-25 03:40:13  |Portal| AMP starting on 4006
+19-10-25 03:40:13  |Portal| Telnet starting on 4000
+19-10-25 03:40:13  |Portal| Websocket starting on 4002
+19-10-25 03:40:13  |Portal| Webserver-proxy starting on 4001
+19-10-25 03:40:13  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:41:27  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:43:07  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:43:31  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:43:50  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:46:29  |Portal| Timing out client: IPv4Address(type='TCP', host='127.0.0.1', port=57897)
+19-10-25 03:46:40  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:46:49  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:47:00  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:49:28  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:51:38  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
+19-10-25 03:54:39  |Portal| Portal starting server ... ['twistd', '--python=/home/cclement/muddev/evennia/evennia/server/server.py', '--pidfile=/home/cclement/muddev/testgame/server/server.pid']
